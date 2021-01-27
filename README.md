@@ -1,0 +1,3 @@
+# mongochat
+
+`` npm install``
